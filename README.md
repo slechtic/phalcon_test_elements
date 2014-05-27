@@ -1,2 +1,1 @@
-phalcon_test_elements
-=====================
+Skeleton for a Phalcon single module application
